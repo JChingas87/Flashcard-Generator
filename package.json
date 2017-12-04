@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "This is an app I made to practice using constructors.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JChingas87/Flashcard-Generator.git"
+  },
+  "author": "Joseph Chingas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JChingas87/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/JChingas87/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1"
+  }
+}
